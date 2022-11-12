@@ -1,7 +1,7 @@
 import datetime
 import hashlib
 import time
-import urllib.request
+import urllib.https://twitchtracker.com/xqcisoffline/streams/41491532251
 from threading import Thread
 from bs4 import BeautifulSoup
 import requests
@@ -10,7 +10,7 @@ import random
 
 
 
-domains = [
+domains = [https://twitchtracker.com/xqcisoffline/streams/41491532251
 "https://vod-secure.twitch.tv",
 "https://vod-metro.twitch.tv",
 "https://vod-pop-secure.twitch.tv",
